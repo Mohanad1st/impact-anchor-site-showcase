@@ -1,27 +1,27 @@
-<p align="center"><img src="assets/banner.svg" alt="Impact Anchor — consulting site" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Impact Anchor: consulting site" width="100%"></p>
 
 <p align="center"><b>From AI overwhelm to a working adoption plan, for mission-driven teams</b></p>
 
 <p align="center" dir="rtl" lang="ar">من الحيرة أمام الذكاء الاصطناعي إلى خطة واضحة لتبنّيه</p>
 
-<p align="center"><b>Status:</b> Live · final updates in progress &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a></p>
+<p align="center"><b>Status:</b> Live · Arabic content and assistant updates still rolling out &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a></p>
 
-> Case study only: the source is private because it is a live business site with its own admin area. Walkthrough on request.
+> This is a case study. The source is private because it is a live business site with its own admin area.
 
-## The problem
+## Why I built it
 
-Organisations across the Gulf and MENA want to use AI but are stuck between hype and fear. This is the site for Impact Anchor, my AI and evidence advisory practice: a clear method, case studies with real screens and numbers, training, and a short way to start — with no prices and no checkout, because the right first step is a conversation.
+Organisations across the Gulf and MENA want to use AI but are stuck between hype and fear. This is the site for Impact Anchor, my AI and evidence advisory work: a clear method, case studies with the real screens, training, and a short way to start. There are no prices and no checkout. The right first step is a conversation.
 
 ## What it does
 
-- A bilingual site explaining a structured AI-adoption method
-- Case studies with the challenge, approach, outcome and the screens behind them
-- Training and speaking pages
-- An assistant that answers visitors' questions from the site's own content
-- Spam-protected contact and a book-a-call flow
-- An admin area for publishing content
+- A bilingual site that explains a structured AI-adoption method.
+- Case studies with the challenge, the approach, the outcome and the screens behind them.
+- Training and speaking pages.
+- An assistant that answers visitors' questions from the site's own content.
+- Spam-protected contact, and a book-a-call flow.
+- An admin area for publishing content.
 
-## See it
+## How it works
 
 **[Visit the Impact Anchor site](https://www.impact-anchor-ai.com)**
 
@@ -29,21 +29,21 @@ Organisations across the Gulf and MENA want to use AI but are stuck between hype
 
 <sub>All screens show demo data or public pages only.</sub>
 
-## Built with
+## What it's built on
 
-React · TypeScript · PostgreSQL with auth and storage · serverless functions · deployed on managed hosting
+React · TypeScript · PostgreSQL with auth and storage · serverless functions · managed hosting
 
-## Built responsibly
+## Safeguards
 
-- Role-based access for the admin area
-- Row-level security limits what the public can read or write
-- Security headers applied site-wide
-- Only public keys ever reach the browser
-- Tests, lint and build checks run before changes ship
+- Role-based access for the admin area.
+- Row-level security limits what the public can read or write.
+- Security headers across the site.
+- Only public keys ever reach the browser.
+- Tests, lint and build checks run in CI on every pull request.
 
-## What it deliberately doesn't do
+## What it doesn't do
 
-- There is no pricing or checkout on purpose.
+- No pricing or checkout, on purpose.
 
 ## More from Impact Anchor
 
